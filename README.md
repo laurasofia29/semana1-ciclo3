@@ -1,1 +1,1 @@
-# semana1-ciclo3
+Repositorio de la semana 1 de clase
